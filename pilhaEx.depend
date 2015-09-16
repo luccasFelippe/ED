@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442413119 source:/home/luccas/CPROG/pilhaEx/main.c
+	"pilha.h"
+
+1442418899 source:/home/luccas/CPROG/pilhaEx/opPilha.c
+	"pilha.h"
+
+1442411908 /home/luccas/CPROG/pilhaEx/pilha.h
+	<stdio.h>
+	<stdlib.h>
+
